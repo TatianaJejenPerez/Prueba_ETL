@@ -1,0 +1,8 @@
+sqlalchemy
+pandas
+numpy
+requests
+scikit-learn
+psycopg2-binary
+python-dotenv
+dotenv
